@@ -1,0 +1,9 @@
+{
+  "name": "create-neutrino-project",
+  "version": "1.0.0",
+  "description": "Scaffold new Neutrino projects with a CLI helper",
+  "main": "index.js",
+  "repository": "https://github.com/mozilla-neutrino/create-neutrino-project",
+  "author": "Hassan Ali <helfi92@gmail.com>",
+  "license": "MPL-2.0"
+}
